@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "925697845436",
+    "project_id": "seedapp-fd731",
+    "storage_bucket": "seedapp-fd731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925697845436:android:7eed959243912af25648b9",
+        "android_client_info": {
+          "package_name": "app.android.seedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925697845436-3mm7qap2numg0s0rdrlfkcc051722hjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4s6hnKM3OQrRWEF8jXiKWn_Mstz-FPRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925697845436-3mm7qap2numg0s0rdrlfkcc051722hjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925697845436-bhmpcrs471gdej62ad82kv04prrejr5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamlab.SeedApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
